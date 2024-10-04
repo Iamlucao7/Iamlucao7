@@ -5,9 +5,9 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/iamlucao/)
 
 
- - 👾 Tenho interesse em desenvolvimento backend, programação orientada a objetos e aprendizado de máquina;
+ - 👾 Tenho interesse em desenvolvimento backend, programação orientada a objetos, aprendizado de máquina e desenvolvimento web;
 - 👨‍💻 Atualmente cursando Ciência da Computação no IBMR; e
-- 🧩 Apaixonado em resolver problemas.
+- 🧩 Um solucionador de problemas em constante evolução.
 ###
 ###
 
